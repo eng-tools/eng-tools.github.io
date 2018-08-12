@@ -35,13 +35,13 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Home</a></li>
-        <li class="dropdown">
-          <a class="dropdown-toggle" data-toggle="dropdown" href="#">List<span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="#">Item 1</a></li>
-            <li><a href="#">Item 2</a></li>
-          </ul>
-        </li>
+        <!--<li class="dropdown">-->
+          <!--<a class="dropdown-toggle" data-toggle="dropdown" href="#">List<span class="caret"></span></a>-->
+          <!--<ul class="dropdown-menu">-->
+            <!--<li><a href="#">Item 1</a></li>-->
+            <!--<li><a href="#">Item 2</a></li>-->
+          <!--</ul>-->
+        <!--</li>-->
         <li><a href="naming-conventions.html">Naming conventions</a></li>
         <li><a href="#">Databases</a></li>
       </ul>
@@ -75,8 +75,6 @@
             add, add to the tools of knowledge, without combination or elimination.”</p>
             <p><span style="font-weight: bold">Standardization and its abuse</span> –
               intelligent standards versus standardized intelligence – by Hardy Cross (1952)</p>
-
-
         </div>
       </div>
     </section>
@@ -87,6 +85,7 @@
           <p>Follows convention over configuration principles. [Expand on this]</p>
           <p>Non-essentialism: Uses behaviour-based recognition rather than type
             checking to overcome the Liskov Substitution principle</p>
+          <p>Implementation of scientific method</p>
           <p>Include reference to presentation</p>
         </div>
       </div>
@@ -95,15 +94,15 @@
       <div class="container">
         <div class="central-content col-md-10 col-md-offset-1 col-xs-12">
           <h2>Contribute to the project</h2>
-          <h4>Experimental researchers</h4>
+          <h4>Experimental research</h4>
           <p>Upload your results to an online database that allows access via API,
             organising your files according to the <a href="naming-conventions.html">naming conventions</a></p>
-          <h4>Theoretical researchers</h4>
+          <h4>Theoretical research</h4>
           <p>Upload your hypotheses to an online server that allows access via API,
             your hypothesis should take standard engineering objects
             (see  <a href="naming-conventions.html">naming conventions</a>) as inputs and output
           the prediction of your hypothesis.</p>
-          <h4>Numerical researchers</h4>
+          <h4>Numerical research</h4>
           <p>Contribute to the open-sourced python packages at <a href="https://github.com/eng-tools">GitHub</a>.</p>
         </div>
       </div>
@@ -114,15 +113,4 @@
 Website currently under development. copyright 2018.
 </footer>
 </body>
-<script>
-  function setActive() {
-    var activeTabDiv = document.getElementById("active-view-holder");
-    if (activeTabDiv !== null) {
-      var activeTab = activeTabDiv.innerHTML;
-    var activeLi = document.getElementById(activeTab);
-    activeLi.className = "active";
-    }
-  }
-  setActive();
-</script>
 </html>
