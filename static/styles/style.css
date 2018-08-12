@@ -1,0 +1,114 @@
+/*yellow-color: rgb(247, 233, 129) */
+/*yellow-color-dark: rgb(204, 189, 79) */
+/*yellow-color-light: rgb(251, 245, 197) */
+
+/*red-color: rgb(241, 145, 118) */
+/*red-color-dark: rgb(198, 119, 97) */
+/*red-color-light: rgb(248, 205, 192) */
+
+/*green-color: rgb(52, 170, 104) */
+/*green-color-dark: rgb(43, 140, 86) */
+/*green-color-light: rgb(162, 216, 186) */
+
+/*soft-green-color: rgb(156, 206, 140) */
+/*soft-green-color-dark: rgb(128, 169, 115) */
+/*soft-green-color-light: rgb(210, 232, 202) */
+
+/*orange-color: rgb(234, 159, 90) */
+/*orange-color-dark: rgb(192, 131, 74) */
+/*orange-color-darker: rgb(162, 101, 34) */
+/*orange-color-light: rgb(245, 211, 180) */
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica', sans-serif;
+  background: rgb(250, 250, 250);
+}
+
+h1 {
+  font-size: 14pt;
+  font-weight: lighter;
+}
+
+a.no-underline {
+  text-decoration: none;
+}
+
+#wrap {
+  height: 100%;
+  margin: 0 auto -50px;
+  /* Pad bottom by footer height */
+  padding: 0 0 50px;
+}
+
+.central-content {
+  background: rgb(245, 211, 180);
+  margin-bottom: 20pt;
+  border-bottom-left-radius: 3pt;
+  border-bottom-right-radius: 3pt;
+}
+
+.main-bar {
+  background: rgb(192, 131, 74);
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+}
+
+.asset-navigator h2 {
+  font-size: 12pt;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 3pt 0 2pt 5pt;
+}
+
+#brand-logo {
+  height: 25pt;
+  margin: 5pt;
+}
+
+.navbar {
+  margin-bottom: 0;  /* correct bootstrap */
+}
+
+.navbar-brand {
+  padding-top: 0;  /* remove padding from bootstrap */
+}
+.navbar-inverse {
+  border-color: rgb(192, 131, 74);
+}
+.navbar-inverse .navbar-nav>li>a {
+  color: white;  /* override bootstrap grey */
+  font-weight: 100;
+}
+.navbar-inverse .navbar-nav>li>a:hover {
+  color: rgb(180, 180, 180);
+  background: rgb(162, 101, 34);
+  font-weight: 100;
+}
+.navbar-inverse .navbar-nav .active {
+  background: rgb(234, 159, 90);
+  font-weight: 100;
+}
+.navbar-inverse .navbar-nav>.active>a {
+  background: rgb(234, 159, 90);
+  font-weight: 100;
+}
+.navbar-inverse .navbar-nav>.active>a:hover {
+  background: rgb(162, 101, 34);
+  font-weight: 100;
+}
+
+.centre-full-height{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.naming-img {
+  padding-left: 10%;
+  padding-right: 10%;
+  width: 100%;
+}

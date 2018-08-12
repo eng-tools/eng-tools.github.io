@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Consistency Project</title>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <!--<link rel="icon" type="image/png" sizes="32x32" href="{% static "main/img/favicon-32x32.png" %}">-->
+	<!--<link rel="icon" type="image/png" sizes="16x16" href="{% static "main/img/favicon-16x16.png" %}">-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="static/styles/style.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+
+<div id="wrap">
+<!--  navbar https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_navbar_collapse&stacked=h -->
+  <nav class="navbar navbar-inverse main-bar">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+        <a class="navbar-brand" href="/#">
+          <div id="logo">
+          <img id="brand-logo" src="static/img/ecp-logo.svg"/>
+          </div>
+        </a>
+    </div>
+    <div class="collapse navbar-collapse" id="main-nav-bar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="/#">Home</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">List<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Item 1</a></li>
+            <li><a href="#">Item 2</a></li>
+          </ul>
+        </li>
+        <li><a href="naming-conventions.html">Naming conventions</a></li>
+        <li><a href="/#">Databases</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+  <div id="main">
+
+    <section>
+      <div class="container">
+        <div class="central-content col-md-10 col-md-offset-1 col-xs-12">
+          <h1>Naming conventions</h1>
+          <h2>Geometry naming</h2>
+        </div>
+
+      </div>
+    </section>
+    <section id="soil-profile-positions">
+      <div class="container">
+        <div class="central-content col-md-10 col-md-offset-1 col-xs-12">
+          <h3>Soil Profiles</h3>
+          <p>Positions in soil profiles</p>
+          <img class="naming-img" src="static/img/naming-conventions/soil-v1p0p0.svg">
+        </div>
+      </div>
+    </section>
+    <section id="building-positions">
+      <div class="container">
+        <div class="central-content col-md-10 col-md-offset-1 col-xs-12">
+          <h3>Buildings</h3>
+          <p>Positions in buildings</p>
+          <img class="naming-img" src="static/img/naming-conventions/building-v1p0p0.svg">
+        </div>
+      </div>
+    </section>
+    <section id="conflict-positions">
+      <div class="container">
+        <div class="central-content col-md-10 col-md-offset-1 col-xs-12">
+          <h3>Conflicts</h3>
+          <p>How to resolve conflicts in positions</p>
+          <img class="naming-img" src="static/img/naming-conventions/position-conflicts-v1p0p0.svg">
+        </div>
+      </div>
+    </section>
+
+    <section id="parameter-names">
+      <div class="container">
+        <div class="central-content col-md-10 col-md-offset-1 col-xs-12">
+          <h2>Parameter names</h2>
+          <h4>Soil objects</h4>
+          <p>TODO: Add soil parameter names</p>
+         <h2>All names</h2>
+          <p>All names can be found by installing the python package
+            <a href="https://pypi.org/project/sfsimodels/">sfsimodels</a>.
+            Then run "python -m sfsimodels.parameter_names" - Not yet implemented.
+            </p>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+<footer class="main-bar footer navbar-default navbar-fixed-bottom">
+Website currently under development. copyright 2018.
+</footer>
+</body>
+<script>
+  function setActive() {
+    var activeTabDiv = document.getElementById("active-view-holder");
+    if (activeTabDiv !== null) {
+      var activeTab = activeTabDiv.innerHTML;
+    var activeLi = document.getElementById(activeTab);
+    activeLi.className = "active";
+    }
+  }
+  setActive();
+</script>
+</html>
