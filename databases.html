@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Consistency Project</title>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <!--<link rel="icon" type="image/png" sizes="32x32" href="{% static "main/img/favicon-32x32.png" %}">-->
+  <!--<link rel="icon" type="image/png" sizes="16x16" href="{% static "main/img/favicon-16x16.png" %}">-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="static/styles/style.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+
+<div id="wrap">
+  <!--  navbar https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_navbar_collapse&stacked=h -->
+  <nav class="navbar navbar-inverse main-bar">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/#">
+          <div id="logo">
+            <img id="brand-logo" src="static/img/ecp-logo.svg"/>
+          </div>
+        </a>
+      </div>
+      <div class="collapse navbar-collapse" id="main-nav-bar">
+        <ul class="nav navbar-nav">
+          <li><a href="/#">Home</a></li>
+          <li><a href="naming-conventions.html">Naming conventions</a></li>
+          <li class="active"><a href="databases.html">Databases</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <div id="main">
+
+    <section>
+      <div class="container">
+        <div class="central-content col-md-10 col-md-offset-1 col-xs-12">
+          <h1>Databases</h1>
+        </div>
+
+      </div>
+    </section>
+    <section id="soil-profile-positions">
+      <div class="container">
+        <div class="central-content col-md-10 col-md-offset-1 col-xs-12">
+          <h2>Database design</h2>
+          <p>Databases can be set up using any structure, however,
+            a plain text database with limited folder structure is preferred.</p>
+
+          <h3>Essential database files</h3>
+          <ul>
+            <li>ecp_models.json: Contains a structured dictionary of the models and there
+              parameters in the experiment/simulation. Follows the
+              <a href="naming-conventions.html#parameter-names">parameter naming convention</a>.
+            View an example file [not yet implemented].</li>
+            <li>sensors_file.json: Contains a structured dictionary of the sensors and there
+              coordinates in the experiment/simulation. Follows the
+              sensor naming convention for <a href="naming-conventions.html#soil-profile-positions">sensor types</a>
+              for <a href="naming-conventions.html#soil-profile-positions">soil profiles</a>
+              and for <a href="naming-conventions.html#building-positions">buildings</a>.
+            View an example file [not yet implemented].</li>
+
+          </ul>
+
+        </div>
+      </div>
+    </section>
+
+  </div>
+</div>
+<footer class="main-bar footer navbar-default navbar-fixed-bottom">
+  Website currently under development. copyright 2018.
+</footer>
+</body>
+</html>

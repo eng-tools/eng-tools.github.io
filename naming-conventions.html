@@ -44,7 +44,7 @@
           <!--</ul>-->
           <!--</li>-->
           <li class="active"><a href="naming-conventions.html">Naming conventions</a></li>
-          <li><a href="/#">Databases</a></li>
+          <li><a href="databases.html">Databases</a></li>
         </ul>
       </div>
     </div>
@@ -84,6 +84,52 @@
           <h3>Conflicts</h3>
           <p>How to resolve conflicts in positions</p>
           <img class="naming-img" src="static/img/naming-conventions/position-conflicts-v1p0p0.svg">
+        </div>
+      </div>
+    </section>
+
+    <section id="sensor-type-names">
+      <div class="container">
+        <div class="central-content col-md-10 col-md-offset-1 col-xs-12">
+          <h3>Sensor type names</h3>
+          <ul>
+            <li>ACC = Acceleration</li>
+            <li>DISP = Displacement</li>
+            <li>PPT = pore pressure transducer</li>
+            <li>STRS = Shear strain</li>
+            <li>STRV = Volumetric strain</li>
+            <li>TAU = Shear stress</li>
+            <li>SIG = Normal stress</li>
+            <li>MOM – Moment about an axis</li>
+            <li>ROT – rotation about an axis</li>
+            <li>HROT – hinge rotation</li>
+            <li>SHF – Shear force</li>
+          </ul>
+          <p>For directional sensors add the orientation (X, Y, Z) as a suffix
+            (e.g. ACCX = in-plane horizontal acceleration)</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="file-names">
+      <div class="container">
+        <div class="central-content col-md-10 col-md-offset-1 col-xs-12">
+          <h3>Database file names</h3>
+          <p>The file names are saved according to the following convention:
+          &ltmodel&gt-&ltmotion type&gt-&ltx code&gt-&lty code&gt-&ltz code&gt-&ltanalysis name&gt.&file type&gt
+          </p>
+          <ul>
+            <li>Model name: Is the code given to a model,
+              where different models have different physical properties (e.g. different soil density,
+              more bays in the superstructure)</li>
+            <li>Motion type &ltParameter&gt&ltOrientation&gt (e.g. ACCX = horizontal acceleration)</li>
+            <li>X code: code corresponding to x coordinate</li>
+            <li>Y code: code corresponding to y coordinate</li>
+            <li>Z code: code corresponding to z coordinate</li>
+            <li>Analysis name: Code given to analysis. Used to distinguish between different non-physical
+              simulation parameters (e.g. changing model damping, linear vs nonlinear analysis)</li>
+            <li>file type: file type suffix</li>
+          </ul>
         </div>
       </div>
     </section>
