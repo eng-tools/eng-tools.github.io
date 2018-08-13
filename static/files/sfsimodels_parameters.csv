@@ -1,7 +1,7 @@
 Soil inputs:,,
 id,,Id number
 name,,Name to identify object
-base_type,,
+base_type,,Object type for saving and loading
 type,,Object type
 stype,,Soil model type
 g_mod,Pa,Soil shear modulus
@@ -9,16 +9,18 @@ bulk_mod,Pa,Soil bulk modulus
 poissons_ratio,Pa,Soil Poissons ratio
 phi,deg,Soil friction angle
 dilation_angle,deg,Soil dilation angle
-e_min,,Minimum void ratio
-e_max,,Maximum void ratio
-e_curr,,Current void ratio
-relative_density,,Relative density
-specific_gravity,,Specific gravity of soil
+e_min,-,Minimum void ratio
+e_max,-,Maximum void ratio
+e_curr,-,Current void ratio
+relative_density,-,Relative density
+specific_gravity,-,Specific gravity of soil
 unit_dry_weight,N/m3,Dry unit weight of soil
 unit_sat_weight,N/m3,Saturated unit weight of soil
-saturation,,Saturation ratio of soil
+saturation,-,Saturation ratio of soil
 cohesion,Pa,Cohesive strength of soil
-permeability,,Permeability of soil
+plasticity_index,-,Plasticity index of the soil
+permeability,-,Permeability of soil
+,,
 SoilProfile inputs:,,
 id,,Id number
 name,,Name to identify object
@@ -26,10 +28,12 @@ gwl,m,Ground water level
 unit_water_weight,N/m3,Unit weight of water
 layers,m,Layers of soil specified by id and depth to top of layer
 height,m,Total height of soil profile
+,,
+
 Foundation inputs:,,
 id,,Id number
 name,,Name to identify object
-base_type,,
+base_type,,Object type for saving and loading
 type,,Object type
 width,m,Foundation width
 length,m,Foundation length
@@ -37,12 +41,44 @@ depth,m,Foundation depth from surface
 height,m,Foundation height
 density,kg/m3,Foundation mass density
 mass,kg,Foundation mass
+,,
+
+PadFoundation inputs:,,
+id,,Id number
+name,,Name to identify object
+base_type,,Object type for saving and loading
+type,,Object type
+width,m,Foundation width
+length,m,Foundation length
+depth,m,Foundation depth from surface
+height,m,Foundation height
+density,kg/m3,Foundation mass density
+mass,kg,Foundation mass
+n_pads_l,,Number of footings in length direction
+n_pads_w,,Number of footings in width direction
+pad_length,m,Length of footing
+pad_width,m,Width of footing
+,,
+
 Structure inputs:,,
 id,,Id number
 name,,Name to identify object
-base_type,,
+base_type,,Object type for saving and loading
 type,,Object type
 h_eff,m,Structure effective height
 mass_eff,T,Structure effective mass
 t_fixed,s,Structure effective period
 mass_ratio,,Ratio of horizontal seismic mass to vertical mass
+,,
+
+FrameBuilding2D inputs:,,
+beams,m,Array of beam sections
+columns,m,Array of column sections
+bay_lengths,m,Length between columns
+id,,Id number
+name,,Name to identify object
+type,,Object type
+floor_length,m,Length of floor area in direction of interest
+floor_width,m,Length of floor area out-of-plane
+interstorey_heights,m,Distance between storeys
+storey_masses,kg,Mass of each storey
