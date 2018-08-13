@@ -12,6 +12,7 @@
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="static/js/sfsimodels_parameters.js"></script>
 
 </head>
 <body>
@@ -97,6 +98,10 @@
           <p>All names can be found by installing the python package
             <a href="https://pypi.org/project/sfsimodels/">sfsimodels</a>.
             Then run "python -m sfsimodels.parameter_names" - Not yet implemented.
+
+            <!--Add button to download .csv. use javascript to read the csv and build table-->
+            <!--Add sensor names: e.g. ACCX and PPT-->
+            <!--Add units-->
             </p>
         </div>
       </div>
@@ -107,4 +112,12 @@
 Website currently under development. copyright 2018.
 </footer>
 </body>
+<script type="text/csv" id="unparsed">
+Soil inputs:,,
+id,,Id number
+name,,Name to identify object
+base_type,,
+type,,Object type
+stype,,Soil model type
+</script>
 </html>
