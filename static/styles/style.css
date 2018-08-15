@@ -64,6 +64,14 @@ a.no-underline {
   border-bottom-right-radius: 3pt;
 }
 
+.warning-content {
+  background: rgba(180, 100, 100, 0.5);
+  margin-bottom: 20pt;
+  padding: 10px 10px 10px 10px;
+  border-bottom-left-radius: 3pt;
+  border-bottom-right-radius: 3pt;
+}
+
 .main-bar {
   background: rgb(192, 131, 74);
   color: white;
