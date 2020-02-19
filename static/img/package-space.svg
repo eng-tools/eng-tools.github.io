@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="package-space.svg"
-   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 259.41824 120.0901"
+   width="259.41824mm"
    height="120.0901mm"
-   width="259.41824mm">
+   viewBox="0 0 259.41824 120.0901"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   sodipodi:docname="package-space.svg">
   <defs
      id="defs2">
     <marker
@@ -21,282 +21,298 @@
        orient="auto"
        refY="0"
        refX="0"
-       id="marker1741"
+       id="marker1123"
        style="overflow:visible"
        inkscape:isstock="true">
       <path
          inkscape:connector-curvature="0"
-         id="path1739"
+         id="path1121"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6)" />
     </marker>
     <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker1731"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1729"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="scale(-0.6)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker1721"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1719"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="scale(-0.6)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker1711"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1709"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="scale(-0.6)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker1701"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1699"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="scale(-0.6)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker1691"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1689"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="scale(-0.6)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker1681"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1679"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="scale(-0.6)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker1671"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1669"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="scale(-0.6)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker1661"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1659"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="scale(-0.6)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker1651"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1649"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="scale(-0.6)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker1641"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1639"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="scale(-0.6)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker1631"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1629"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="scale(-0.6)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker1621"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1619"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="scale(-0.6)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker1611"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1609"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="scale(-0.6)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker1601"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1599"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="scale(-0.6)" />
-    </marker>
-    <marker
-       inkscape:collect="always"
        inkscape:isstock="true"
        style="overflow:visible"
-       id="Arrow2Mend"
+       id="marker1741"
        refX="0"
        refY="0"
        orient="auto"
        inkscape:stockid="Arrow2Mend">
       <path
-         inkscape:connector-curvature="0"
          transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         id="path1274" />
+         id="path1739"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1731"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1729"
+         inkscape:connector-curvature="0" />
     </marker>
     <marker
        inkscape:isstock="true"
        style="overflow:visible"
-       id="Arrow1Send"
+       id="marker1721"
        refX="0"
        refY="0"
        orient="auto"
-       inkscape:stockid="Arrow1Send">
+       inkscape:stockid="Arrow2Mend">
       <path
-         inkscape:connector-curvature="0"
-         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1719"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1711"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1709"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1701"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1699"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1691"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1689"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1681"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1679"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1671"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1669"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1661"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1659"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1651"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1649"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1641"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1639"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1631"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1629"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1621"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1619"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1611"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1609"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1601"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1599"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1274"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1262"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path1262" />
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
     </marker>
   </defs>
   <sodipodi:namedview
-     fit-margin-bottom="0"
-     fit-margin-right="0"
-     fit-margin-left="0"
-     fit-margin-top="0"
-     inkscape:snap-global="false"
-     inkscape:window-maximized="0"
-     inkscape:window-y="73"
-     inkscape:window-x="1548"
-     inkscape:window-height="938"
-     inkscape:window-width="1536"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="370.90204"
-     inkscape:cx="533.05999"
-     inkscape:zoom="0.80075397"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.80075397"
+     inkscape:cx="533.05999"
+     inkscape:cy="370.90204"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1536"
+     inkscape:window-height="938"
+     inkscape:window-x="1548"
+     inkscape:window-y="51"
+     inkscape:window-maximized="0"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -305,701 +321,703 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-2.2678487,-4.2808928)"
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
-    <g
-       id="g3896">
-      <rect
-         ry="2.7019975"
-         y="70.694862"
-         x="195.80292"
-         height="18.758627"
-         width="44.520496"
-         id="rect1191"
-         style="fill:#f0d05a;fill-opacity:0.87451;stroke-width:0.665" />
-      <rect
-         style="fill:#f0d05a;fill-opacity:0.87451;stroke-width:0.665"
-         id="rect1189"
-         width="49.476765"
-         height="18.758627"
-         x="144.47368"
-         y="70.694862"
-         ry="2.7019975" />
-      <rect
-         ry="2.7019975"
-         y="70.694862"
-         x="84.14872"
-         height="18.758627"
-         width="57.737209"
-         id="rect1086"
-         style="fill:#f0d05a;fill-opacity:0.87451;stroke-width:0.665" />
-      <rect
-         style="opacity:0.59164;fill:#00b7d5;stroke-width:0.665"
-         id="rect1014"
-         width="49.236485"
-         height="18.898809"
-         x="51.721649"
-         y="41.652969"
-         ry="2.7221897" />
-      <path
-         id="path1064"
-         style="fill:#f1d05b;fill-opacity:1;stroke-width:0.665"
-         d="m 54.726396,41.652969 c 28.859482,5.842729 -3.204786,16.298981 46.231734,16.298981 0,1.519501 -1.429334,2.74278 -3.204786,2.74278 H 54.726396 c -1.775452,0 -3.204786,-1.223279 -3.204786,-2.74278 v -13.5562 c 0,-1.519501 1.429334,-2.742781 3.204786,-2.742781 z"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccssssc" />
-      <rect
-         style="opacity:0.59164;fill:#00b7d5;stroke-width:0.665"
-         id="rect991"
-         width="64.35553"
-         height="28.963623"
-         x="189.36603"
-         y="27.365471"
-         ry="4.1719275" />
-      <path
-         sodipodi:nodetypes="ccssssc"
-         inkscape:connector-curvature="0"
-         d="m 193.53796,27.365474 c 37.56873,8.887131 -4.17193,24.791697 60.1836,24.791697 0,2.311248 -1.86068,4.171927 -4.17193,4.171927 h -56.01167 c -2.31125,0 -4.17193,-1.860679 -4.17193,-4.171927 V 31.537402 c 0,-2.311248 1.86068,-4.171928 4.17193,-4.171928 z"
-         style="fill:#f1d05b;fill-opacity:1;stroke-width:0.665"
-         id="path996" />
-      <rect
-         ry="4.1719275"
-         y="27.365473"
-         x="115.2827"
-         height="28.963623"
-         width="64.35553"
-         id="rect989"
-         style="opacity:0.59164;fill:#00b7d5;stroke-width:0.665" />
-      <path
-         id="rect993"
-         style="fill:#f1d05b;fill-opacity:1;stroke-width:0.665"
-         d="m 119.45463,27.365474 c 37.56873,8.887131 -4.17193,24.791697 60.1836,24.791697 0,2.311248 -1.86068,4.171927 -4.17193,4.171927 h -56.01167 c -2.31125,0 -4.17193,-1.860679 -4.17193,-4.171927 V 31.537402 c 0,-2.311248 1.86068,-4.171928 4.17193,-4.171928 z"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccssssc" />
-      <rect
-         style="opacity:0.59164;fill:#00b7d5;stroke-width:0.665"
-         id="rect833"
-         width="53.772198"
-         height="16.776121"
-         x="35.90773"
-         y="13.870476"
-         ry="2.4164367" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+     id="layer1"
+     transform="translate(-2.2678487,-4.2808928)">
+    <rect
+       ry="2.7019975"
+       y="70.694862"
+       x="195.80292"
+       height="18.758627"
+       width="44.520496"
+       id="rect1191"
+       style="fill:#f0d05a;fill-opacity:0.87451;stroke-width:0.665" />
+    <rect
+       style="fill:#f0d05a;fill-opacity:0.87451;stroke-width:0.665"
+       id="rect1189"
+       width="49.476765"
+       height="18.758627"
+       x="144.47368"
+       y="70.694862"
+       ry="2.7019975" />
+    <rect
+       ry="2.7019975"
+       y="70.694862"
+       x="84.14872"
+       height="18.758627"
+       width="57.737209"
+       id="rect1086"
+       style="fill:#f0d05a;fill-opacity:0.87451;stroke-width:0.665" />
+    <rect
+       style="opacity:0.59164;fill:#00b7d5;stroke-width:0.665"
+       id="rect1014"
+       width="49.236485"
+       height="18.898809"
+       x="51.721649"
+       y="41.652969"
+       ry="2.7221897" />
+    <path
+       id="path1064"
+       style="fill:#f1d05b;fill-opacity:1;stroke-width:0.665"
+       d="m 54.726396,41.652969 c 28.859482,5.842729 -3.204786,16.298981 46.231734,16.298981 0,1.519501 -1.429334,2.74278 -3.204786,2.74278 H 54.726396 c -1.775452,0 -3.204786,-1.223279 -3.204786,-2.74278 v -13.5562 c 0,-1.519501 1.429334,-2.742781 3.204786,-2.742781 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccssssc" />
+    <rect
+       style="opacity:0.59164;fill:#00b7d5;stroke-width:0.665"
+       id="rect991"
+       width="64.35553"
+       height="28.963623"
+       x="189.36603"
+       y="27.365471"
+       ry="4.1719275" />
+    <path
+       sodipodi:nodetypes="ccssssc"
+       inkscape:connector-curvature="0"
+       d="m 193.53796,27.365474 c 37.56873,8.887131 -4.17193,24.791697 60.1836,24.791697 0,2.311248 -1.86068,4.171927 -4.17193,4.171927 h -56.01167 c -2.31125,0 -4.17193,-1.860679 -4.17193,-4.171927 V 31.537402 c 0,-2.311248 1.86068,-4.171928 4.17193,-4.171928 z"
+       style="fill:#f1d05b;fill-opacity:1;stroke-width:0.665"
+       id="path996" />
+    <rect
+       ry="4.1719275"
+       y="27.365473"
+       x="115.2827"
+       height="28.963623"
+       width="64.35553"
+       id="rect989"
+       style="opacity:0.59164;fill:#00b7d5;stroke-width:0.665" />
+    <path
+       id="rect993"
+       style="fill:#f1d05b;fill-opacity:1;stroke-width:0.665"
+       d="m 119.45463,27.365474 c 37.56873,8.887131 -4.17193,24.791697 60.1836,24.791697 0,2.311248 -1.86068,4.171927 -4.17193,4.171927 h -56.01167 c -2.31125,0 -4.17193,-1.860679 -4.17193,-4.171927 V 31.537402 c 0,-2.311248 1.86068,-4.171928 4.17193,-4.171928 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccssssc" />
+    <rect
+       style="opacity:0.59164;fill:#00b7d5;stroke-width:0.665"
+       id="rect833"
+       width="53.772198"
+       height="16.776121"
+       x="35.90773"
+       y="13.870476"
+       ry="2.4164367" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="99.833183"
+       y="75.276619"
+       id="text849"><tspan
+         sodipodi:role="line"
+         id="tspan847"
          x="99.833183"
          y="75.276619"
-         id="text849"><tspan
-           sodipodi:role="line"
-           id="tspan847"
-           x="99.833183"
-           y="75.276619"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">o3seespy</tspan></text>
-      <text
-         id="text853"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">o3seespy</tspan></text>
+    <text
+       id="text853"
+       y="32.045155"
+       x="139.91226"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          y="32.045155"
          x="139.91226"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-           y="32.045155"
-           x="139.91226"
-           id="tspan851"
-           sodipodi:role="line">numpy</tspan></text>
+         id="tspan851"
+         sodipodi:role="line">numpy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="157.6524"
+       y="75.638092"
+       id="text857"><tspan
+         sodipodi:role="line"
+         id="tspan855"
+         x="157.6524"
+         y="75.638092"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">sfsimodels</tspan></text>
+    <text
+       id="text873"
+       y="75.509178"
+       x="212.25832"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="75.509178"
+         x="212.25832"
+         id="tspan871"
+         sodipodi:role="line">eqsig</tspan></text>
+    <rect
+       ry="2.7221897"
+       y="41.652969"
+       x="2.2678487"
+       height="18.898809"
+       width="45.456722"
+       id="rect1012"
+       style="opacity:0.59164;fill:#b7b7b7;fill-opacity:1;stroke-width:0.665" />
+    <g
+       id="g1010"
+       transform="translate(0.17794065)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="157.6524"
-         y="75.638092"
-         id="text857"><tspan
+         x="10.058271"
+         y="47.45047"
+         id="text841"><tspan
            sodipodi:role="line"
-           id="tspan855"
-           x="157.6524"
-           y="75.638092"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">sfsimodels</tspan></text>
-      <text
-         id="text873"
-         y="75.509178"
-         x="212.25832"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-           y="75.509178"
-           x="212.25832"
-           id="tspan871"
-           sodipodi:role="line">eqsig</tspan></text>
-      <rect
-         ry="2.7221897"
-         y="41.652969"
-         x="2.2678487"
-         height="18.898809"
-         width="45.456722"
-         id="rect1012"
-         style="opacity:0.59164;fill:#b7b7b7;fill-opacity:1;stroke-width:0.665" />
-      <g
-         id="g1010"
-         transform="translate(0.17794065)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           id="tspan839"
            x="10.058271"
            y="47.45047"
-           id="text841"><tspan
-             sodipodi:role="line"
-             id="tspan839"
-             x="10.058271"
-             y="47.45047"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">OpenSees.tcl</tspan></text>
-        <text
-           id="text907"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">OpenSees.tcl</tspan></text>
+      <text
+         id="text907"
+         y="52.99176"
+         x="25.104074"
+         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
            y="52.99176"
            x="25.104074"
-           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           xml:space="preserve"><tspan
-             style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-             y="52.99176"
-             x="25.104074"
-             id="tspan903"
-             sodipodi:role="line">OpenSees compiled to </tspan><tspan
-             style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-             y="58.283424"
-             x="25.104074"
-             sodipodi:role="line"
-             id="tspan905">run in Tcl interpreter</tspan></text>
-      </g>
+           id="tspan903"
+           sodipodi:role="line">OpenSees compiled to </tspan><tspan
+           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           y="58.283424"
+           x="25.104074"
+           sodipodi:role="line"
+           id="tspan905">run in Tcl interpreter</tspan></text>
+    </g>
+    <g
+       id="g1003"
+       transform="translate(-10.583333)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="72.294655"
+         y="47.45047"
+         id="text845"><tspan
+           sodipodi:role="line"
+           id="tspan843"
+           x="72.294655"
+           y="47.45047"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">OpenSeesPy</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="86.584526"
+         y="52.99176"
+         id="text917"><tspan
+           sodipodi:role="line"
+           id="tspan913"
+           x="86.584526"
+           y="52.99176"
+           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">OpenSees compiled to </tspan><tspan
+           id="tspan915"
+           sodipodi:role="line"
+           x="86.584526"
+           y="58.283424"
+           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">run in Python interpreter</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="147.31776"
+       y="37.651299"
+       id="text923"><tspan
+         sodipodi:role="line"
+         id="tspan919"
+         x="147.31776"
+         y="37.651299"
+         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">Numerical methods written in C</tspan><tspan
+         sodipodi:role="line"
+         x="147.31776"
+         y="42.942963"
+         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan935"> and compiled to run in Python </tspan><tspan
+         sodipodi:role="line"
+         x="147.31776"
+         y="48.234623"
+         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan929">interpreter and wrapped in </tspan><tspan
+         sodipodi:role="line"
+         x="147.31776"
+         y="53.526283"
+         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan977">Python objects and functions</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="215.86455"
+       y="32.045155"
+       id="text945"><tspan
+         sodipodi:role="line"
+         id="tspan943"
+         x="215.86455"
+         y="32.045155"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">scipy</tspan></text>
+    <text
+       id="text961"
+       y="80.868378"
+       x="112.42152"
+       style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan959"
+         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="80.868378"
+         x="112.42152"
+         sodipodi:role="line">OpenSeesPy wrapped in </tspan><tspan
+         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="86.160042"
+         x="112.42152"
+         sodipodi:role="line"
+         id="tspan967">Python objects and functions</tspan></text>
+    <text
+       id="text987"
+       y="37.651299"
+       x="221.95299"
+       style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="37.651299"
+         x="221.95299"
+         id="tspan979"
+         sodipodi:role="line">Scientific methods written in C</tspan><tspan
+         id="tspan981"
+         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="42.942963"
+         x="221.95299"
+         sodipodi:role="line"> and compiled to run in Python </tspan><tspan
+         id="tspan983"
+         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="48.234623"
+         x="221.95299"
+         sodipodi:role="line">interpreter and wrapped in </tspan><tspan
+         id="tspan985"
+         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="53.526283"
+         x="221.95299"
+         sodipodi:role="line">Python objects and functions</tspan></text>
+    <text
+       id="text899"
+       y="23.859383"
+       x="61.853832"
+       style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="23.859383"
+         x="61.853832"
+         id="tspan897"
+         sodipodi:role="line">Source code of OpenSees</tspan><tspan
+         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="29.151045"
+         x="61.853832"
+         sodipodi:role="line"
+         id="tspan901">written in C++</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="45.271645"
+       y="18.812733"
+       id="text837"><tspan
+         sodipodi:role="line"
+         id="tspan835"
+         x="45.271645"
+         y="18.812733"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">OpenSees.cpp</tspan></text>
+    <g
+       id="g1084"
+       transform="translate(-5.2916667)">
+      <rect
+         style="opacity:0.59164;fill:#00b7d5;stroke-width:0.665001"
+         id="rect1034"
+         width="52.260296"
+         height="24.190475"
+         x="25.641291"
+         y="65.465469"
+         ry="3.4844027" />
+      <path
+         id="path1073"
+         style="opacity:1;fill:#f1d05b;fill-opacity:1;stroke-width:0.665"
+         d="m 28.98161,65.484317 c 30.564383,7.384058 -3.394111,20.598701 48.962917,20.598701 0,1.92035 -1.513773,3.466334 -3.394112,3.466334 H 28.98161 c -1.880338,0 -3.394111,-1.545984 -3.394111,-3.466334 V 68.950651 c 0,-1.920349 1.513773,-3.466334 3.394111,-3.466334 z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccssssc" />
       <g
-         id="g1003"
-         transform="translate(-10.583333)">
+         id="g1046"
+         transform="translate(-34.622618,23.8125)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           x="72.294655"
+           x="64.886314"
            y="47.45047"
-           id="text845"><tspan
+           id="text1038"><tspan
              sodipodi:role="line"
-             id="tspan843"
-             x="72.294655"
+             id="tspan1036"
+             x="64.886314"
              y="47.45047"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">OpenSeesPy</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">custom_openseespy</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
            x="86.584526"
            y="52.99176"
-           id="text917"><tspan
+           id="text1044"><tspan
              sodipodi:role="line"
-             id="tspan913"
+             id="tspan1040"
              x="86.584526"
              y="52.99176"
-             style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">OpenSees compiled to </tspan><tspan
-             id="tspan915"
+             style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">User version of OpenSees </tspan><tspan
+             id="tspan1042"
              sodipodi:role="line"
              x="86.584526"
              y="58.283424"
-             style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">run in Python interpreter</tspan></text>
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="147.31776"
-         y="37.651299"
-         id="text923"><tspan
-           sodipodi:role="line"
-           id="tspan919"
-           x="147.31776"
-           y="37.651299"
-           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">Numerical methods written in C</tspan><tspan
-           sodipodi:role="line"
-           x="147.31776"
-           y="42.942963"
-           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           id="tspan935"> and compiled to run in Python </tspan><tspan
-           sodipodi:role="line"
-           x="147.31776"
-           y="48.234623"
-           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           id="tspan929">interpreter and wrapped in </tspan><tspan
-           sodipodi:role="line"
-           x="147.31776"
-           y="53.526283"
-           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           id="tspan977">Python objects and functions</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="215.86455"
-         y="32.045155"
-         id="text945"><tspan
-           sodipodi:role="line"
-           id="tspan943"
-           x="215.86455"
-           y="32.045155"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">scipy</tspan></text>
-      <text
-         id="text961"
-         y="80.868378"
-         x="112.42152"
-         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         xml:space="preserve"><tspan
-           id="tspan959"
-           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           y="80.868378"
-           x="112.42152"
-           sodipodi:role="line">OpenSeesPy wrapped in </tspan><tspan
-           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           y="86.160042"
-           x="112.42152"
-           sodipodi:role="line"
-           id="tspan967">Python objects and functions</tspan></text>
-      <text
-         id="text987"
-         y="37.651299"
-         x="221.95299"
-         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         xml:space="preserve"><tspan
-           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           y="37.651299"
-           x="221.95299"
-           id="tspan979"
-           sodipodi:role="line">Scientific methods written in C</tspan><tspan
-           id="tspan981"
-           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           y="42.942963"
-           x="221.95299"
-           sodipodi:role="line"> and compiled to run in Python </tspan><tspan
-           id="tspan983"
-           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           y="48.234623"
-           x="221.95299"
-           sodipodi:role="line">interpreter and wrapped in </tspan><tspan
-           id="tspan985"
-           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           y="53.526283"
-           x="221.95299"
-           sodipodi:role="line">Python objects and functions</tspan></text>
-      <text
-         id="text899"
-         y="23.859383"
-         x="61.853832"
-         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         xml:space="preserve"><tspan
-           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           y="23.859383"
-           x="61.853832"
-           id="tspan897"
-           sodipodi:role="line">Source code of OpenSees</tspan><tspan
-           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           y="29.151045"
-           x="61.853832"
-           sodipodi:role="line"
-           id="tspan901">written in C++</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="45.271645"
-         y="18.812733"
-         id="text837"><tspan
-           sodipodi:role="line"
-           id="tspan835"
-           x="45.271645"
-           y="18.812733"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">OpenSees.cpp</tspan></text>
-      <g
-         id="g1084"
-         transform="translate(-5.2916667)">
-        <rect
-           style="opacity:0.59164;fill:#00b7d5;stroke-width:0.665001"
-           id="rect1034"
-           width="52.260296"
-           height="24.190475"
-           x="25.641291"
-           y="65.465469"
-           ry="3.4844027" />
-        <path
-           id="path1073"
-           style="opacity:1;fill:#f1d05b;fill-opacity:1;stroke-width:0.665"
-           d="m 28.98161,65.484317 c 30.564383,7.384058 -3.394111,20.598701 48.962917,20.598701 0,1.92035 -1.513773,3.466334 -3.394112,3.466334 H 28.98161 c -1.880338,0 -3.394111,-1.545984 -3.394111,-3.466334 V 68.950651 c 0,-1.920349 1.513773,-3.466334 3.394111,-3.466334 z"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccssssc" />
-        <g
-           id="g1046"
-           transform="translate(-34.622618,23.8125)">
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-             x="64.886314"
-             y="47.45047"
-             id="text1038"><tspan
-               sodipodi:role="line"
-               id="tspan1036"
-               x="64.886314"
-               y="47.45047"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">custom_openseespy</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">compiled to run in </tspan><tspan
+             sodipodi:role="line"
              x="86.584526"
-             y="52.99176"
-             id="text1044"><tspan
-               sodipodi:role="line"
-               id="tspan1040"
-               x="86.584526"
-               y="52.99176"
-               style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">User version of OpenSees </tspan><tspan
-               id="tspan1042"
-               sodipodi:role="line"
-               x="86.584526"
-               y="58.283424"
-               style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">compiled to run in </tspan><tspan
-               sodipodi:role="line"
-               x="86.584526"
-               y="63.575085"
-               style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-               id="tspan1054">Python interpreter</tspan></text>
-        </g>
+             y="63.575085"
+             style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+             id="tspan1054">Python interpreter</tspan></text>
       </g>
-      <text
-         xml:space="preserve"
-         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="169.0424"
+       y="80.868378"
+       id="text1092"><tspan
+         id="tspan1090"
+         sodipodi:role="line"
          x="169.0424"
          y="80.868378"
-         id="text1092"><tspan
-           id="tspan1090"
-           sodipodi:role="line"
-           x="169.0424"
-           y="80.868378"
-           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">Soil, foundation and </tspan><tspan
-           sodipodi:role="line"
-           x="169.0424"
-           y="86.160042"
-           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           id="tspan1096">structural Python objects</tspan></text>
-      <text
-         id="text1110"
+         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">Soil, foundation and </tspan><tspan
+         sodipodi:role="line"
+         x="169.0424"
+         y="86.160042"
+         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan1096">structural Python objects</tspan></text>
+    <text
+       id="text1110"
+       y="80.868378"
+       x="217.86946"
+       style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         id="tspan1108"
+         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
          y="80.868378"
          x="217.86946"
-         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         xml:space="preserve"><tspan
-           id="tspan1108"
-           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           y="80.868378"
-           x="217.86946"
-           sodipodi:role="line">Time series objects</tspan><tspan
-           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-           y="86.160042"
-           x="217.86946"
+         sodipodi:role="line">Time series objects</tspan><tspan
+         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="86.160042"
+         x="217.86946"
+         sodipodi:role="line"
+         id="tspan1114">and signal processing</tspan></text>
+    <g
+       id="g1243"
+       transform="translate(0,0.52667533)">
+      <rect
+         ry="3.1303387"
+         y="102.11192"
+         x="63.237598"
+         height="21.732388"
+         width="47.483379"
+         id="rect1201"
+         style="opacity:1;fill:#f0d05a;fill-opacity:0.87451;stroke-width:0.665001" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="80.511124"
+         y="106.53315"
+         id="text1104"><tspan
            sodipodi:role="line"
-           id="tspan1114">and signal processing</tspan></text>
-      <g
-         id="g1243"
-         transform="translate(0,0.52667533)">
-        <rect
-           ry="3.1303387"
-           y="102.11192"
-           x="63.237598"
-           height="21.732388"
-           width="47.483379"
-           id="rect1201"
-           style="opacity:1;fill:#f0d05a;fill-opacity:0.87451;stroke-width:0.665001" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           id="tspan1102"
            x="80.511124"
            y="106.53315"
-           id="text1104"><tspan
-             sodipodi:role="line"
-             id="tspan1102"
-             x="80.511124"
-             y="106.53315"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">o3soil</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           x="86.738495"
-           y="111.58727"
-           id="text1127"><tspan
-             id="tspan1131"
-             sodipodi:role="line"
-             x="86.738495"
-             y="111.58727"
-             style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">Toolkit for using</tspan><tspan
-             id="tspan1135"
-             sodipodi:role="line"
-             x="86.738495"
-             y="116.87894"
-             style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">o3seespy for</tspan><tspan
-             id="tspan1187"
-             sodipodi:role="line"
-             x="86.738495"
-             y="122.17059"
-             style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">geotechnical simulation</tspan></text>
-      </g>
-      <g
-         id="g1234"
-         transform="translate(0,0.52667533)">
-        <rect
-           style="opacity:1;fill:#f0d05a;fill-opacity:0.87451;stroke-width:0.665001"
-           id="rect1199"
-           width="35.588341"
-           height="21.732388"
-           x="117.99512"
-           y="102.11192"
-           ry="3.1303387" />
-        <text
-           id="text895"
-           y="106.5452"
-           x="129.23531"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-             y="106.5452"
-             x="129.23531"
-             id="tspan893"
-             sodipodi:role="line">eqdes</tspan></text>
-        <text
-           id="text1141"
-           y="111.60844"
-           x="135.77469"
-           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           xml:space="preserve"><tspan
-             id="tspan1145"
-             style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-             y="111.60844"
-             x="135.77469"
-             sodipodi:role="line">Simulated design</tspan><tspan
-             id="tspan1149"
-             style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-             y="116.9001"
-             x="135.77469"
-             sodipodi:role="line">and assessment </tspan><tspan
-             id="tspan1161"
-             style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-             y="122.19176"
-             x="135.77469"
-             sodipodi:role="line">of structures</tspan></text>
-      </g>
-      <g
-         id="g1209"
-         transform="translate(7.2691907,0.52667533)">
-        <rect
-           ry="2.3688433"
-           y="102.11192"
-           x="155.70013"
-           height="16.445704"
-           width="25.356266"
-           id="rect1197"
-           style="opacity:1;fill:#f0d05a;fill-opacity:0.87451;stroke-width:0.665" />
-        <text
-           id="text865"
-           y="106.58379"
-           x="157.85286"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-             y="106.58379"
-             x="157.85286"
-             id="tspan863"
-             sodipodi:role="line">geofound</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           x="167.82523"
-           y="111.58727"
-           id="text1155"><tspan
-             sodipodi:role="line"
-             x="167.82523"
-             y="111.58727"
-             style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-             id="tspan1153">Toolkit for </tspan><tspan
-             id="tspan1165"
-             sodipodi:role="line"
-             x="167.82523"
-             y="116.87894"
-             style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">foundations</tspan></text>
-      </g>
-      <g
-         id="g1217"
-         transform="translate(6.2779374,0.52667533)">
-        <rect
-           style="opacity:1;fill:#f0d05a;fill-opacity:0.87451;stroke-width:0.665"
-           id="rect1195"
-           width="25.356266"
-           height="16.445704"
-           x="192.74184"
-           y="102.11192"
-           ry="2.3688433" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           x="197.38162"
-           y="106.53315"
-           id="text861"><tspan
-             sodipodi:role="line"
-             id="tspan859"
-             x="197.38162"
-             y="106.53315"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">liquepy</tspan></text>
-        <text
-           id="text1171"
-           y="111.58727"
-           x="205.16243"
-           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           xml:space="preserve"><tspan
-             id="tspan1167"
-             style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-             y="111.58727"
-             x="205.16243"
-             sodipodi:role="line">Toolkit for </tspan><tspan
-             style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
-             y="116.87894"
-             x="205.16243"
-             sodipodi:role="line"
-             id="tspan1169">liquefaction</tspan></text>
-      </g>
-      <g
-         id="g1225"
-         transform="translate(2.3129243,-5.6171019)">
-        <rect
-           ry="2.3688433"
-           y="99.46611"
-           x="228.73021"
-           height="16.445704"
-           width="30.64295"
-           id="rect1193"
-           style="opacity:1;fill:#f0d05a;fill-opacity:0.87451;stroke-width:0.665" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           x="237.72102"
-           y="103.63885"
-           id="text869"><tspan
-             sodipodi:role="line"
-             id="tspan867"
-             x="237.72102"
-             y="103.63885"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">pysra</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           x="243.63803"
-           y="108.95142"
-           id="text1177"><tspan
-             id="tspan1175"
-             sodipodi:role="line"
-             x="243.63803"
-             y="108.95142"
-             style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">Site response</tspan><tspan
-             id="tspan1181"
-             sodipodi:role="line"
-             x="243.63803"
-             y="114.24309"
-             style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">analysis</tspan></text>
-      </g>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
-         d="m 46.258485,30.728851 c 0,0 -11.895037,3.304177 -15.529634,10.573369"
-         id="path1245"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1601)"
-         d="m 65.753133,30.398434 c 0,0 6.608355,4.625848 8.590862,10.573369"
-         id="path1567"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1611)"
-         d="m 53.197259,31.059268 c 0,0 -4.625848,15.199217 -4.625848,34.363448"
-         id="path1571"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.600001, 1.2;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1621)"
-         d="m 72.130001,71.039817 c 0,0 8.409134,0 12.01305,0.991254"
-         id="path1573"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1631)"
-         d="m 94.499479,60.466448 c 0,0 5.286682,2.643344 6.608351,9.912535"
-         id="path1575"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1641)"
-         d="m 137.12337,56.171017 c 0,0 -14.20796,6.608358 -17.51214,14.538383"
-         id="path1577"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1651)"
-         d="m 158.60052,56.501437 c 0,0 6.93878,4.625848 8.26045,13.877546"
-         id="path1579"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1661)"
-         d="m 173.1389,56.501437 c 0,0 24.78133,7.269189 31.38969,14.207963"
-         id="path1581"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1671)"
-         d="m 219.72781,56.501437 -0.33042,13.547127"
-         id="path1583"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1681)"
-         d="m 230.63159,99.455744 c 0,0 -4.95626,0.660836 -6.93877,4.956266"
-         id="path1585"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1691)"
-         d="m 217.41488,89.543212 c 0,0 -2.31292,8.921278 -2.31292,12.886288"
-         id="path1587"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1701)"
-         d="m 182.06018,89.212795 c 0,0 15.19922,5.617101 21.47716,13.216705"
-         id="path1589"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1711)"
-         d="m 170.16514,89.543212 2.31293,12.886288"
-         id="path1591"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1721)"
-         d="m 152.98342,89.543212 c 0,0 -10.57337,5.617101 -14.20796,13.216708"
-         id="path1593"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1731)"
-         d="M 145.71423,88.882375 106.39452,102.4295"
-         id="path1595"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1741)"
-         d="m 100.447,89.543212 c 0,0 -7.269194,4.956267 -9.582118,12.886288"
-         id="path1597"
-         inkscape:connector-curvature="0" />
-      <rect
-         style="fill:#f0d05a;fill-opacity:0.87451;stroke-width:0.665001"
-         id="rect1953"
-         width="39.564236"
-         height="7.8548408"
-         x="221.92317"
-         y="4.2808928"
-         ry="1.1314133" />
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">o3soil</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="86.738495"
+         y="111.58727"
+         id="text1127"><tspan
+           id="tspan1131"
+           sodipodi:role="line"
+           x="86.738495"
+           y="111.58727"
+           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">Toolkit for using</tspan><tspan
+           id="tspan1135"
+           sodipodi:role="line"
+           x="86.738495"
+           y="116.87894"
+           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">o3seespy for</tspan><tspan
+           id="tspan1187"
+           sodipodi:role="line"
+           x="86.738495"
+           y="122.17059"
+           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">geotechnical simulation</tspan></text>
+    </g>
+    <g
+       id="g1234"
+       transform="translate(0,0.52667533)">
+      <rect
+         style="opacity:1;fill:#f0d05a;fill-opacity:0.87451;stroke-width:0.665001"
+         id="rect1199"
+         width="35.588341"
+         height="21.732388"
+         x="117.99512"
+         y="102.11192"
+         ry="3.1303387" />
+      <text
+         id="text895"
+         y="106.5452"
+         x="129.23531"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           y="106.5452"
+           x="129.23531"
+           id="tspan893"
+           sodipodi:role="line">eqdes</tspan></text>
+      <text
+         id="text1141"
+         y="111.60844"
+         x="135.77469"
+         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           id="tspan1145"
+           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           y="111.60844"
+           x="135.77469"
+           sodipodi:role="line">Simulated design</tspan><tspan
+           id="tspan1149"
+           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           y="116.9001"
+           x="135.77469"
+           sodipodi:role="line">and assessment </tspan><tspan
+           id="tspan1161"
+           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           y="122.19176"
+           x="135.77469"
+           sodipodi:role="line">of structures</tspan></text>
+    </g>
+    <g
+       id="g1209"
+       transform="translate(7.2691907,0.52667533)">
+      <rect
+         ry="2.3688433"
+         y="102.11192"
+         x="155.70013"
+         height="16.445704"
+         width="25.356266"
+         id="rect1197"
+         style="opacity:1;fill:#f0d05a;fill-opacity:0.87451;stroke-width:0.665" />
+      <text
+         id="text865"
+         y="106.58379"
+         x="157.85286"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           y="106.58379"
+           x="157.85286"
+           id="tspan863"
+           sodipodi:role="line">geofound</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="167.82523"
+         y="111.58727"
+         id="text1155"><tspan
+           sodipodi:role="line"
+           x="167.82523"
+           y="111.58727"
+           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           id="tspan1153">Toolkit for </tspan><tspan
+           id="tspan1165"
+           sodipodi:role="line"
+           x="167.82523"
+           y="116.87894"
+           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">foundations</tspan></text>
+    </g>
+    <g
+       id="g1217"
+       transform="translate(6.2779374,0.52667533)">
+      <rect
+         style="opacity:1;fill:#f0d05a;fill-opacity:0.87451;stroke-width:0.665"
+         id="rect1195"
+         width="25.356266"
+         height="16.445704"
+         x="192.74184"
+         y="102.11192"
+         ry="2.3688433" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="197.38162"
+         y="106.53315"
+         id="text861"><tspan
+           sodipodi:role="line"
+           id="tspan859"
+           x="197.38162"
+           y="106.53315"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">liquepy</tspan></text>
+      <text
+         id="text1171"
+         y="111.58727"
+         x="205.16243"
+         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           id="tspan1167"
+           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           y="111.58727"
+           x="205.16243"
+           sodipodi:role="line">Toolkit for </tspan><tspan
+           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           y="116.87894"
+           x="205.16243"
+           sodipodi:role="line"
+           id="tspan1169">liquefaction</tspan></text>
+    </g>
+    <g
+       id="g1225"
+       transform="translate(2.3129243,-5.6171019)">
+      <rect
+         ry="2.3688433"
+         y="99.46611"
+         x="228.73021"
+         height="16.445704"
+         width="30.64295"
+         id="rect1193"
+         style="opacity:1;fill:#f0d05a;fill-opacity:0.87451;stroke-width:0.665" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="237.72102"
+         y="103.63885"
+         id="text869"><tspan
+           sodipodi:role="line"
+           id="tspan867"
+           x="237.72102"
+           y="103.63885"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">pysra</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="243.63803"
+         y="108.95142"
+         id="text1177"><tspan
+           id="tspan1175"
+           sodipodi:role="line"
+           x="243.63803"
+           y="108.95142"
+           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">Site response</tspan><tspan
+           id="tspan1181"
+           sodipodi:role="line"
+           x="243.63803"
+           y="114.24309"
+           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">analysis</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 46.258485,30.728851 c 0,0 -11.895037,3.304177 -15.529634,10.573369"
+       id="path1245"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1601)"
+       d="m 65.753133,30.398434 c 0,0 6.608355,4.625848 8.590862,10.573369"
+       id="path1567"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1611)"
+       d="m 53.197259,31.059268 c 0,0 -4.625848,15.199217 -4.625848,34.363448"
+       id="path1571"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.600001, 1.2;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1621)"
+       d="m 72.130001,71.039817 c 0,0 8.409134,0 12.01305,0.991254"
+       id="path1573"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1631)"
+       d="m 94.499479,60.466448 c 0,0 5.286682,2.643344 6.608351,9.912535"
+       id="path1575"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1641)"
+       d="m 137.12337,56.171017 c 0,0 -14.20796,6.608358 -17.51214,14.538383"
+       id="path1577"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1651)"
+       d="m 158.60052,56.501437 c 0,0 6.93878,4.625848 8.26045,13.877546"
+       id="path1579"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1661)"
+       d="m 173.1389,56.501437 c 0,0 24.78133,7.269189 31.38969,14.207963"
+       id="path1581"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1671)"
+       d="m 219.72781,56.501437 -0.33042,13.547127"
+       id="path1583"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1681)"
+       d="m 230.63159,99.455744 c 0,0 -4.95626,0.660836 -6.93877,4.956266"
+       id="path1585"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1691)"
+       d="m 217.41488,89.543212 c 0,0 -2.31292,8.921278 -2.31292,12.886288"
+       id="path1587"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1701)"
+       d="m 182.06018,89.212795 c 0,0 15.19922,5.617101 21.47716,13.216705"
+       id="path1589"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1711)"
+       d="m 170.16514,89.543212 2.31293,12.886288"
+       id="path1591"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1721)"
+       d="m 152.98342,89.543212 c 0,0 -10.57337,5.617101 -14.20796,13.216708"
+       id="path1593"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.600001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1731)"
+       d="M 145.76878,88.882375 99.859676,102.4295"
+       id="path1595"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1741)"
+       d="m 100.447,89.543212 c 0,0 -7.269194,4.956267 -9.582118,12.886288"
+       id="path1597"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#f0d05a;fill-opacity:0.87451;stroke-width:0.665001"
+       id="rect1953"
+       width="39.564236"
+       height="7.8548408"
+       x="221.92317"
+       y="4.2808928"
+       ry="1.1314133" />
+    <text
+       xml:space="preserve"
+       style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="241.34422"
+       y="9.4981413"
+       id="text1959"><tspan
+         id="tspan1957"
+         sodipodi:role="line"
          x="241.34422"
          y="9.4981413"
-         id="text1959"><tspan
-           id="tspan1957"
-           sodipodi:role="line"
-           x="241.34422"
-           y="9.4981413"
-           style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">Pure python library</tspan></text>
-    </g>
+         style="font-style:oblique;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.23333px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Light Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583">Pure python library</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1119"
+       d="M 203.34836,89.556553 107.03039,102.45523"
+       style="fill:none;stroke:#000000;stroke-width:0.599999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1123)" />
   </g>
 </svg>
